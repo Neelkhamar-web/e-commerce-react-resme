@@ -1,0 +1,8 @@
+.flexy{
+ font-family: "Roboto", sans-serif;;
+}
+
+.flexy{
+  background: rgb(172,17,133);
+  background: linear-gradient(180deg, rgba(172,17,133,1) 0%, rgba(162,28,130,1) 1%, rgba(114,122,124,0.2861519607843137) 100%);
+}
